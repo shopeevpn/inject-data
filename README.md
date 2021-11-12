@@ -9,5 +9,5 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/shopeevpn/inject-data/main/raw/injectordigi.PNG">
+<img src="https://raw.githubusercontent.com/shopeevpn/inject-data/main/raw/VPNSHOPEE-2.jpg">
    </p>
